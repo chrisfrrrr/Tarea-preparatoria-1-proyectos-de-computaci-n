@@ -1,0 +1,7 @@
+Ingrese una palabra en minúsculas: corazon
+
+A se repite: 1 veces
+E se repite: 0 veces
+I se repite: 0 veces
+O se repite: 2 veces
+U se repite: 0 veces
